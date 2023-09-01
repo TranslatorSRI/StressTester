@@ -1,0 +1,73 @@
+{
+  "https://spokekp.healthdatascience.cloud/api/v1.4/query": {},
+  "https://automat.renci.org/cam-kp/1.4/query": {},
+  "https://translator.broadinstitute.org/genetics_provider/trapi/v1.4/query": {},
+  "https://api.bte.ncats.io/v1/team/Service%20Provider/query": {},
+  "https://automat.renci.org/hgnc/1.4/query": {},
+  "https://automat.renci.org/hetio/1.4/query": {
+    "predicates": [
+      "biolink:ameliorates"
+    ]
+  },
+  "https://automat.renci.org/icees-kg/1.4/query": {
+    "predicates": [
+      "biolink:correlated_with"
+    ]
+  },
+  "https://automat.renci.org/biolink/1.4/query": {},
+  "https://automat.renci.org/gtopdb/1.4/query": {},
+  "https://automat.renci.org/robokopkg/1.4/query": {},
+  "https://automat.renci.org/pharos/1.4/query": {},
+  "https://automat.renci.org/intact/1.4/query": {},
+  "https://automat.renci.org/drugcentral/1.4/query": {},
+  "https://automat.renci.org/panther/1.4/query": {},
+  "https://automat.renci.org/ubergraph/1.4/query": {
+    "predicates": [
+      "biolink:related_to"
+    ]
+  },
+  "https://automat.renci.org/ctd/1.4/query": {
+    "predicates": [
+      "biolink:ameliorates"
+    ]
+  },
+  "https://automat.renci.org/hmdb/1.4/query": {
+    "predicates": [
+      "biolink:correlated_with"
+    ]
+  },
+  "https://automat.renci.org/gtex/1.4/query": {},
+  "https://automat.renci.org/gwas-catalog/1.4/query": {},
+  "https://automat.renci.org/viral-proteome/1.4/query": {},
+  "https://automat.renci.org/human-goa/1.4/query": {},
+  "https://automat.renci.org/ubergraph-nonredundant/1.4/query": {
+    "predicates": [
+      "biolink:subclass_of"
+    ]
+  },
+  "https://automat.renci.org/string-db/1.4/query": {
+    "predicates": [
+      "biolink:subclass_of"
+    ]
+  },
+  "https://automat.renci.org/sri-reference-kg/1.4/query": {
+    "predicates": [
+      "biolink:related_to"
+    ]
+  },
+  "https://automat.renci.org/genome-alliance/1.4/query": {},
+  "https://arax.ncats.io/beta/api/rtxkg2/v1.4/query": {},
+  "https://cooccurrence-p36smkc6hq-uc.a.run.app/query": {
+    "predicates": [
+      "biolink:occurs_together_in_literature_with"
+    ]
+  },
+  "https://translator.broadinstitute.org/molepro/trapi/v1.4/query": {},
+  "https://cohd.io/api/query": {
+    "predicates": [
+      "biolink:correlated_with"
+    ]
+  },
+  "https://api.collaboratory.semanticscience.org/query": {},
+  "http://chp.thayer.dartmouth.edu/query": {}
+}
